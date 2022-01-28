@@ -1,0 +1,3 @@
+2022-01-28 23:14:16,273 Entered init method with input as (1, 2, 3, 4, 5)
+2022-01-28 23:14:16,274 Exiting the  init method after setting the object as  as (1, 2, 3, 4, 5) 
+2022-01-28 23:14:16,275 tuple object has data ..(1, 2, 3, 4, 5)

@@ -1,0 +1,12 @@
+2022-01-28 10:17:43,030 Entered init method with input as 
+2022-01-28 10:17:43,035 Exiting the init method with input as {'key1': 'value1', 'key2': 'value2'} 
+2022-01-28 10:17:43,035 entered get keys methods
+2022-01-28 10:17:43,035 keys for the object are ..['key1', 'key2']
+2022-01-28 10:17:43,035 exiting the getkeys method
+2022-01-28 10:17:43,035 entered getvalues methods
+2022-01-28 10:17:43,035 values  for the object are ..['value1', 'value2']
+2022-01-28 10:17:43,035 exiting the getvalues method
+2022-01-28 10:17:43,035 entered the getvalueforkey method
+2022-01-28 10:17:43,035 values in that key is ..value1
+2022-01-28 10:17:43,035 exiting the getvalueforkey method
+

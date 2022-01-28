@@ -1,0 +1,12 @@
+INFO:root:Entered init method with input as (1, 2, 3, 4, 5)
+INFO:root:Exiting the  init method after setting the object as  as (1, 2, 3, 4, 5) 
+INFO:root:Entered init method with input as (1, 2, 3, 4, 5)
+INFO:root:Exiting the  init method after setting the object as  as (1, 2, 3, 4, 5) 
+INFO:root:Entered init method with input as (1, 2, 3, 4, 5)
+INFO:root:Exiting the  init method after setting the object as  as (1, 2, 3, 4, 5) 
+INFO:root:tuple object has data ..(1, 2, 3, 4, 5)
+INFO:root:Size of the tuples is 5
+INFO:root:Index of k is..3
+INFO:root:No of time ele is present in tuple is ..{}
+INFO:root:Entered addnewelementsintuple method with input list as ..[100, 10, 102, 103]
+INFO:root:After the elemets are added now the new tuple object is ..(1, 2, 3, 4, 5, 100, 10, 102, 103)

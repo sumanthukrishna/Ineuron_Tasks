@@ -1,0 +1,17 @@
+2022-01-28 22:39:52,198 Entered init method with input as [1, 2, 3, 4, 5]
+2022-01-28 22:39:52,198 Exiting the  init method after setting the object as  as [1, 2, 3, 4, 5] 
+2022-01-28 22:39:52,198 Entered the rev list method
+2022-01-28 22:39:52,198 Executed the reverse and its a inplace execution and output is [5, 4, 3, 2, 1] 
+2022-01-28 22:39:52,199 Entered the comblists method with the new list as [6, 7, 8, 9]
+2022-01-28 22:39:52,199 After appeninf the new list to the current object we now have ...[1, 2, 3, 4, 5, [6, 7, 8, 9]]
+2022-01-28 22:39:52,199 Entered the extend list method with input as [78, 79, 80] 
+2022-01-28 22:39:52,199 Post extending the list object with the new list ...[1, 2, 3, 4, 5, [6, 7, 8, 9], 78, 79, 80]
+2022-01-28 22:39:52,199 Entered the geteleforanIndex methods with needed element index as 6
+2022-01-28 22:39:52,199 Exited the method after fetching the eleemnt as ..78
+2022-01-28 22:39:52,199 Entered the list size method
+2022-01-28 22:39:52,199 Size of the object is ..9
+2022-01-28 22:39:52,199 Exiting the list size method
+2022-01-28 22:39:52,199 Entered the pop element methods with the element to be popped as ..8
+2022-01-28 22:39:52,199 List after popped is ..80
+2022-01-28 22:39:52,206 Entered init method with input as (1, 2, 3, 4, 5)
+2022-01-28 22:39:52,206 Exiting the  init method after setting the object as  as (1, 2, 3, 4, 5) 
