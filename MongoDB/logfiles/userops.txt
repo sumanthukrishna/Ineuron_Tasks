@@ -1,0 +1,216 @@
+2022-02-21 23:14:04,903 INFO Entering the drop collection operation as per user request 
+2022-02-21 23:14:04,903 INFO Starting to drop the colleciton
+2022-02-21 23:14:05,700 INFO successfully the collection has been deleted 
+2022-02-21 23:14:08,062 INFO Entereed Load Data Operation 
+2022-02-21 23:14:08,062 INFO Starting to load the data by fetching the database connection 
+2022-02-21 23:14:08,062 INFO Started to establish  the database connection 
+2022-02-21 23:14:08,172 INFO successfully established the connection with database 
+2022-02-21 23:14:08,258 INFO We found the database and starting to load the data
+2022-02-21 23:16:47,899 INFO Entering the drop collection operation as per user request 
+2022-02-21 23:16:47,899 INFO Starting to drop the colleciton
+2022-02-21 23:16:48,965 INFO successfully the collection has been deleted 
+2022-02-21 23:16:50,709 INFO Entereed Load Data Operation 
+2022-02-21 23:16:50,709 INFO Starting to load the data by fetching the database connection 
+2022-02-21 23:16:50,709 INFO Started to establish  the database connection 
+2022-02-21 23:16:50,802 INFO successfully established the connection with database 
+2022-02-21 23:16:50,896 INFO We found the database and starting to load the data
+2022-02-21 23:16:52,888 INFO successfully loaded the data into the database 
+2022-02-21 23:17:32,212 INFO Entereed retrieval doc Operation 
+2022-02-21 23:17:36,622 INFO Entered retrieve all documents method with parameter of no of documents to be fetched as 12
+2022-02-21 23:17:37,372 INFO All the documents on the database are fetched successfully 
+2022-02-21 23:17:43,162 INFO Retrieve a document matching certain parameters Operation 
+2022-02-21 23:18:07,682 INFO Entered the method find document with parametres as  Chiral indice m 1 
+2022-02-21 23:18:08,649 INFO {'_id': ObjectId('6213d00aafd74a8e261b36c3'), 'Chiral indice n': '2', 'Chiral indice m': '1', 'Initial atomic coordinate u': '0,679005', 'Initial atomic coordinate v': '0,701318', 'Initial atomic coordinate w': '0,017033', "Calculated atomic coordinates u'": '0,721039', "Calculated atomic coordinates v'": '0,730232', "Calculated atomic coordinates w'": '0,017014'}
+2022-02-21 23:19:57,497 INFO Entereed retrieval doc Operation 
+2022-02-21 23:19:59,583 INFO Entered retrieve all documents method with parameter of no of documents to be fetched as 10
+2022-02-21 23:20:00,586 INFO All the documents on the database are fetched successfully 
+2022-02-21 23:20:00,586 INFO {'_id': ObjectId('6213d00aafd74a8e261b36c3'), 'Chiral indice n': '2', 'Chiral indice m': '1', 'Initial atomic coordinate u': '0,679005', 'Initial atomic coordinate v': '0,701318', 'Initial atomic coordinate w': '0,017033', "Calculated atomic coordinates u'": '0,721039', "Calculated atomic coordinates v'": '0,730232', "Calculated atomic coordinates w'": '0,017014'}
+2022-02-21 23:20:00,586 INFO {'_id': ObjectId('6213d00aafd74a8e261b36c4'), 'Chiral indice n': '2', 'Chiral indice m': '1', 'Initial atomic coordinate u': '0,717298', 'Initial atomic coordinate v': '0,642129', 'Initial atomic coordinate w': '0,231319', "Calculated atomic coordinates u'": '0,738414', "Calculated atomic coordinates v'": '0,65675', "Calculated atomic coordinates w'": '0,232369'}
+2022-02-21 23:20:00,586 INFO {'_id': ObjectId('6213d00aafd74a8e261b36c5'), 'Chiral indice n': '2', 'Chiral indice m': '1', 'Initial atomic coordinate u': '0,489336', 'Initial atomic coordinate v': '0,303751', 'Initial atomic coordinate w': '0,088462', "Calculated atomic coordinates u'": '0,477676', "Calculated atomic coordinates v'": '0,263221', "Calculated atomic coordinates w'": '0,088712'}
+2022-02-21 23:20:00,586 INFO {'_id': ObjectId('6213d00aafd74a8e261b36c6'), 'Chiral indice n': '2', 'Chiral indice m': '1', 'Initial atomic coordinate u': '0,413957', 'Initial atomic coordinate v': '0,632996', 'Initial atomic coordinate w': '0,040843', "Calculated atomic coordinates u'": '0,408823', "Calculated atomic coordinates v'": '0,657897', "Calculated atomic coordinates w'": '0,039796'}
+2022-02-21 23:20:00,586 INFO {'_id': ObjectId('6213d00aafd74a8e261b36c7'), 'Chiral indice n': '2', 'Chiral indice m': '1', 'Initial atomic coordinate u': '0,334292', 'Initial atomic coordinate v': '0,543401', 'Initial atomic coordinate w': '0,15989', "Calculated atomic coordinates u'": '0,303349', "Calculated atomic coordinates v'": '0,558807', "Calculated atomic coordinates w'": '0,157373'}
+2022-02-21 23:20:00,586 INFO {'_id': ObjectId('6213d00aafd74a8e261b36c8'), 'Chiral indice n': '2', 'Chiral indice m': '1', 'Initial atomic coordinate u': '0,510664', 'Initial atomic coordinate v': '0,696249', 'Initial atomic coordinate w': '0,255128', "Calculated atomic coordinates u'": '0,496977', "Calculated atomic coordinates v'": '0,725608', "Calculated atomic coordinates w'": '0,25597'}
+2022-02-21 23:20:00,586 INFO {'_id': ObjectId('6213d00aafd74a8e261b36c9'), 'Chiral indice n': '2', 'Chiral indice m': '1', 'Initial atomic coordinate u': '0,413957', 'Initial atomic coordinate v': '0,632996', 'Initial atomic coordinate w': '0,374176', "Calculated atomic coordinates u'": '0,390878', "Calculated atomic coordinates v'": '0,657645', "Calculated atomic coordinates w'": '0,374735'}
+2022-02-21 23:20:00,586 INFO {'_id': ObjectId('6213d00aafd74a8e261b36ca'), 'Chiral indice n': '2', 'Chiral indice m': '1', 'Initial atomic coordinate u': '0,712552', 'Initial atomic coordinate v': '0,55479', 'Initial atomic coordinate w': '0,112271', "Calculated atomic coordinates u'": '0,750056', "Calculated atomic coordinates v'": '0,561494', "Calculated atomic coordinates w'": '0,114944'}
+2022-02-21 23:20:00,586 INFO {'_id': ObjectId('6213d00aafd74a8e261b36cb'), 'Chiral indice n': '2', 'Chiral indice m': '1', 'Initial atomic coordinate u': '0,320995', 'Initial atomic coordinate v': '0,298682', 'Initial atomic coordinate w': '0,1837', "Calculated atomic coordinates u'": '0,281301', "Calculated atomic coordinates v'": '0,261433', "Calculated atomic coordinates w'": '0,182779'}
+2022-02-21 23:20:00,586 INFO {'_id': ObjectId('6213d00aafd74a8e261b36cc'), 'Chiral indice n': '2', 'Chiral indice m': '1', 'Initial atomic coordinate u': '0,394742', 'Initial atomic coordinate v': '0,279367', 'Initial atomic coordinate w': '0,302747', "Calculated atomic coordinates u'": '0,35086', "Calculated atomic coordinates v'": '0,2335', "Calculated atomic coordinates w'": '0,302196'}
+2022-02-21 23:21:21,006 INFO Retrieve a document matching certain parameters Operation 
+2022-02-21 23:21:34,917 INFO Entered the method find document with parametres as  Calculated atomic coordinates v' 0,561494 
+2022-02-21 23:21:35,855 INFO {'_id': ObjectId('6213d00aafd74a8e261b36ca'), 'Chiral indice n': '2', 'Chiral indice m': '1', 'Initial atomic coordinate u': '0,712552', 'Initial atomic coordinate v': '0,55479', 'Initial atomic coordinate w': '0,112271', "Calculated atomic coordinates u'": '0,750056', "Calculated atomic coordinates v'": '0,561494', "Calculated atomic coordinates w'": '0,114944'}
+2022-02-21 23:22:10,532 INFO Insert a Document operation by taking input from user 
+2022-02-21 23:22:59,850 INFO Enterd insertdocinto collection with input as {'Chiral indice n': 1, 'Chiral indice m': 2, 'Initial atomic coordinate u': 3.0, 'Initial atomic coordinate v': 1.2, 'Initial atomic coordinate w': 3.4, 'Calculated atomic coordinates u': 5.6, 'Calculated atomic coordinates v': 6.7, 'Calculated atomic coordinates w': 7.8}
+2022-02-21 23:22:59,996 INFO document  has been recived from user 
+2022-02-21 23:23:00,800 INFO document  has been inserted successfully into collection
+2022-02-21 23:23:42,138 INFO Retrieve a document matching certain parameters Operation 
+2022-02-21 23:23:59,877 INFO Entered the method find document with parametres as  Calculated atomic coordinates v 6.7 
+2022-02-21 23:24:00,897 INFO None
+2022-02-21 23:25:09,743 INFO Entering the drop collection operation as per user request 
+2022-02-21 23:25:09,743 INFO Starting to drop the colleciton
+2022-02-21 23:25:10,720 INFO successfully the collection has been deleted 
+2022-02-21 23:25:34,054 INFO Insert a Document operation by taking input from user 
+2022-02-21 23:25:54,316 INFO Enterd insertdocinto collection with input as {'Chiral indice n': 1, 'Chiral indice m': 23, 'Initial atomic coordinate u': 45.0, 'Initial atomic coordinate v': 45.6, 'Initial atomic coordinate w': 21.3, 'Calculated atomic coordinates u': 123.4, 'Calculated atomic coordinates v': 456.2, 'Calculated atomic coordinates w': 127.6}
+2022-02-21 23:25:54,417 INFO document  has been recived from user 
+2022-02-21 23:25:55,122 INFO document  has been inserted successfully into collection
+2022-02-21 23:26:56,548 INFO Entereed Load Data Operation 
+2022-02-21 23:26:56,548 INFO Starting to load the data by fetching the database connection 
+2022-02-21 23:26:56,548 INFO Started to establish  the database connection 
+2022-02-21 23:26:56,704 INFO successfully established the connection with database 
+2022-02-21 23:26:56,798 INFO We found the database and starting to load the data
+2022-02-21 23:26:58,800 INFO successfully loaded the data into the database 
+2022-02-21 23:29:14,507 INFO Entering the drop collection operation as per user request 
+2022-02-21 23:29:14,507 INFO Starting to drop the colleciton
+2022-02-21 23:29:15,476 INFO successfully the collection has been deleted 
+2022-02-21 23:29:28,985 INFO Insert a Document operation by taking input from user 
+2022-02-21 23:29:38,233 INFO Enterd insertdocinto collection with input as {'Chiral indice n': '12', 'Chiral indice m': '13', 'Initial atomic coordinate u': '14', 'Initial atomic coordinate v': '15', 'Initial atomic coordinate w': '16', 'Calculated atomic coordinates u': '17', 'Calculated atomic coordinates v': '18', 'Calculated atomic coordinates w': '19'}
+2022-02-21 23:29:38,361 INFO document  has been recived from user 
+2022-02-21 23:29:39,037 INFO document  has been inserted successfully into collection
+2022-02-21 23:29:44,597 INFO Retrieve a document matching certain parameters Operation 
+2022-02-21 23:30:01,736 INFO Entered the method find document with parametres as  Calculated atomic coordinates u 17 
+2022-02-21 23:30:02,606 INFO {'_id': ObjectId('6213d30a4ade0faabf756772'), 'Chiral indice n': '12', 'Chiral indice m': '13', 'Initial atomic coordinate u': '14', 'Initial atomic coordinate v': '15', 'Initial atomic coordinate w': '16', 'Calculated atomic coordinates u': '17', 'Calculated atomic coordinates v': '18', 'Calculated atomic coordinates w': '19'}
+2022-02-21 23:30:57,472 INFO ENtering the update a document as per user request operation
+2022-02-21 23:31:24,061 INFO Entered update document method {} {}
+2022-02-21 23:31:24,217 INFO Collection has been fetched
+2022-02-21 23:31:24,217 ERROR An issue occured while updating the document 
+2022-02-21 23:31:31,780 INFO Retrieve a document matching certain parameters Operation 
+2022-02-21 23:31:37,680 INFO Entered the method find document with parametres as  Calculated atomic coordinates u 212 
+2022-02-21 23:31:38,477 INFO None
+2022-02-21 23:33:36,273 INFO ENtering the update a document as per user request operation
+2022-02-21 23:33:52,086 ERROR Encounterd an while collection input from user 
+2022-02-21 23:33:52,086 INFO Entered update document method {} {}
+2022-02-21 23:33:52,258 INFO Collection has been fetched
+2022-02-21 23:33:52,258 ERROR An issue occured while updating the document 
+2022-02-21 23:37:59,565 INFO ENtering the update a document as per user request operation
+2022-02-21 23:38:25,297 INFO Entered update document method {'Calculated atomic coordinates u': '17'} {'Calculated atomic coordinates u': '212'}
+2022-02-21 23:38:25,452 INFO Collection has been fetched
+2022-02-21 23:38:25,452 ERROR An issue occured while updating the document 
+2022-02-21 23:39:36,162 INFO ENtering the update a document as per user request operation
+2022-02-21 23:39:50,280 INFO Entered update document method {'Calculated atomic coordinates u': '17'} {'Calculated atomic coordinates u': '212'}
+2022-02-21 23:39:50,436 INFO Collection has been fetched
+2022-02-21 23:39:50,436 ERROR An issue occured while updating the document 
+2022-02-21 23:43:55,356 INFO Entereed Load Data Operation 
+2022-02-21 23:43:55,356 INFO Starting to load the data by fetching the database connection 
+2022-02-21 23:43:55,356 INFO Started to establish  the database connection 
+2022-02-21 23:43:55,496 INFO successfully established the connection with database 
+2022-02-21 23:43:55,574 INFO We found the database and starting to load the data
+2022-02-21 23:43:57,559 INFO successfully loaded the data into the database 
+2022-02-21 23:44:07,358 INFO Entereed retrieval doc Operation 
+2022-02-21 23:44:08,636 INFO Entered retrieve all documents method with parameter of no of documents to be fetched as 2
+2022-02-21 23:44:09,433 INFO All the documents on the database are fetched successfully 
+2022-02-21 23:44:09,433 INFO {'_id': ObjectId('6213d30a4ade0faabf756772'), 'Chiral indice n': '12', 'Chiral indice m': '13', 'Initial atomic coordinate u': '14', 'Initial atomic coordinate v': '15', 'Initial atomic coordinate w': '16', 'Calculated atomic coordinates u': '17', 'Calculated atomic coordinates v': '18', 'Calculated atomic coordinates w': '19'}
+2022-02-21 23:44:09,433 INFO {'_id': ObjectId('6213d6633d1294260579868c'), 'Chiral indice n': '2', 'Chiral indice m': '1', 'Initial atomic coordinate u': '0,679005', 'Initial atomic coordinate v': '0,701318', 'Initial atomic coordinate w': '0,017033', "Calculated atomic coordinates u'": '0,721039', "Calculated atomic coordinates v'": '0,730232', "Calculated atomic coordinates w'": '0,017014'}
+2022-02-21 23:49:57,608 INFO Insert a Document operation by taking input from user 
+2022-02-21 23:50:08,755 INFO Enterd insertdocinto collection with input as {'Chiral indice n': '12', 'Chiral indice m': '13', 'Initial atomic coordinate u': '14', 'Initial atomic coordinate v': '124', 'Initial atomic coordinate w': '125', "Calculated atomic coordinates u'": '254', "Calculated atomic coordinates v'": '458', "Calculated atomic coordinates w'": '789'}
+2022-02-21 23:50:08,912 INFO document  has been recived from user 
+2022-02-21 23:50:09,725 INFO document  has been inserted successfully into collection
+2022-02-21 23:50:29,159 INFO Entering the drop collection operation as per user request 
+2022-02-21 23:50:29,159 INFO Starting to drop the colleciton
+2022-02-21 23:50:29,933 INFO successfully the collection has been deleted 
+2022-02-21 23:50:32,736 INFO Insert a Document operation by taking input from user 
+2022-02-21 23:50:41,433 INFO Enterd insertdocinto collection with input as {'Chiral indice n': '12', 'Chiral indice m': '13', 'Initial atomic coordinate u': '14', 'Initial atomic coordinate v': '15', 'Initial atomic coordinate w': '17', "Calculated atomic coordinates u'": '123', "Calculated atomic coordinates v'": '456', "Calculated atomic coordinates w'": '789'}
+2022-02-21 23:50:41,542 INFO document  has been recived from user 
+2022-02-21 23:50:42,245 INFO document  has been inserted successfully into collection
+2022-02-21 23:51:17,050 INFO Retrieve a document matching certain parameters Operation 
+2022-02-21 23:51:23,995 INFO Entered the method find document with parametres as  Calculated atomic coordinates w' 789 
+2022-02-21 23:51:25,045 INFO {'_id': ObjectId('6213d7f938eaa1f485f443d9'), 'Chiral indice n': '12', 'Chiral indice m': '13', 'Initial atomic coordinate u': '14', 'Initial atomic coordinate v': '15', 'Initial atomic coordinate w': '17', "Calculated atomic coordinates u'": '123', "Calculated atomic coordinates v'": '456', "Calculated atomic coordinates w'": '789'}
+2022-02-21 23:51:59,189 INFO Entering the delete  a document as per user request operation
+2022-02-21 23:52:11,080 INFO Entered delete document method with parameter as {"Calculated atomic coordinates w'": '789'}
+2022-02-21 23:52:11,836 INFO No of documents deleted are 1
+2022-02-21 23:55:50,072 INFO Insert a Document operation by taking input from user 
+2022-02-21 23:55:58,139 INFO Enterd insertdocinto collection with input as {'Chiral indice n': '12', 'Chiral indice m': '13', 'Initial atomic coordinate u': '14', 'Initial atomic coordinate v': '15', 'Initial atomic coordinate w': '17', "Calculated atomic coordinates u'": '456', "Calculated atomic coordinates v'": '789', "Calculated atomic coordinates w'": '123'}
+2022-02-21 23:55:58,232 INFO document  has been recived from user 
+2022-02-21 23:55:58,906 INFO document  has been inserted successfully into collection
+2022-02-22 14:43:42,179 INFO Entering the updatedocument operation as per user request operation
+2022-02-22 14:45:42,841 INFO Entering the updatedocument operation as per user request operation
+2022-02-22 14:45:48,192 INFO Entered update document method with key Chiral indice m ,old value13,newvalue 987
+2022-02-22 14:45:48,364 INFO Collection has been fetched
+2022-02-22 14:50:40,182 INFO Entering the drop collection operation as per user request 
+2022-02-22 14:50:40,182 INFO Starting to drop the colleciton
+2022-02-22 14:50:41,107 INFO successfully the collection has been deleted 
+2022-02-22 14:51:04,643 INFO Entereed Load Data Operation 
+2022-02-22 14:51:04,643 INFO Starting to load the data by fetching the database connection 
+2022-02-22 14:51:04,643 INFO Started to establish  the database connection 
+2022-02-22 14:51:04,721 INFO successfully established the connection with database 
+2022-02-22 14:51:04,776 INFO We found the database and starting to load the data
+2022-02-22 14:51:06,637 INFO successfully loaded the data into the database 
+2022-02-22 14:51:08,055 INFO Entering the drop collection operation as per user request 
+2022-02-22 14:51:08,055 INFO Starting to drop the colleciton
+2022-02-22 14:51:08,787 INFO successfully the collection has been deleted 
+2022-02-22 14:51:15,521 INFO Insert a Document operation by taking input from user 
+2022-02-22 14:51:36,931 INFO Enterd insertdocinto collection with input as {'Chiral indice n': '12', 'Chiral indice m': '14', 'Initial atomic coordinate u': '16', 'Initial atomic coordinate v': '25', 'Initial atomic coordinate w': '36.458', "Calculated atomic coordinates u'": '12.458', "Calculated atomic coordinates v'": '32.659', "Calculated atomic coordinates w'": '78.9654'}
+2022-02-22 14:51:37,009 INFO document  has been recived from user 
+2022-02-22 14:51:37,775 INFO document  has been inserted successfully into collection
+2022-02-22 14:51:54,567 INFO Entereed retrieval doc Operation 
+2022-02-22 14:51:56,195 INFO Entered retrieve all documents method with parameter of no of documents to be fetched as 10
+2022-02-22 14:51:57,102 INFO All  the 10  documents on the database are fetched successfully 
+2022-02-22 14:51:57,102 INFO {'_id': ObjectId('6214ab21257c34426c8211bd'), 'Chiral indice n': '12', 'Chiral indice m': '14', 'Initial atomic coordinate u': '16', 'Initial atomic coordinate v': '25', 'Initial atomic coordinate w': '36.458', "Calculated atomic coordinates u'": '12.458', "Calculated atomic coordinates v'": '32.659', "Calculated atomic coordinates w'": '78.9654'}
+2022-02-22 14:52:05,562 INFO Retrieve a document matching certain parameters Operation 
+2022-02-22 14:52:41,918 INFO Entered the method find document with parametres as  Chiral indice m 569 
+2022-02-22 14:52:42,790 INFO Below is the document which has been fetched 
+2022-02-22 14:52:42,790 INFO None
+2022-02-22 14:52:51,040 INFO Insert a Document operation by taking input from user 
+2022-02-22 14:53:09,758 INFO Enterd insertdocinto collection with input as {'Chiral indice n': '14', 'Chiral indice m': '17', 'Initial atomic coordinate u': '189', 'Initial atomic coordinate v': '145', 'Initial atomic coordinate w': '156', "Calculated atomic coordinates u'": '12.3654', "Calculated atomic coordinates v'": '23.56', "Calculated atomic coordinates w'": '78.96'}
+2022-02-22 14:53:09,836 INFO document  has been recived from user 
+2022-02-22 14:53:11,149 INFO document  has been inserted successfully into collection
+2022-02-22 14:53:35,041 INFO Entereed retrieval doc Operation 
+2022-02-22 14:53:37,995 INFO Entered retrieve all documents method with parameter of no of documents to be fetched as 2
+2022-02-22 14:53:38,741 INFO All  the 2  documents on the database are fetched successfully 
+2022-02-22 14:53:38,741 INFO {'_id': ObjectId('6214ab21257c34426c8211bd'), 'Chiral indice n': '12', 'Chiral indice m': '14', 'Initial atomic coordinate u': '16', 'Initial atomic coordinate v': '25', 'Initial atomic coordinate w': '36.458', "Calculated atomic coordinates u'": '12.458', "Calculated atomic coordinates v'": '32.659', "Calculated atomic coordinates w'": '78.9654'}
+2022-02-22 14:53:38,741 INFO {'_id': ObjectId('6214ab7d257c34426c8211c1'), 'Chiral indice n': '14', 'Chiral indice m': '17', 'Initial atomic coordinate u': '189', 'Initial atomic coordinate v': '145', 'Initial atomic coordinate w': '156', "Calculated atomic coordinates u'": '12.3654', "Calculated atomic coordinates v'": '23.56', "Calculated atomic coordinates w'": '78.96'}
+2022-02-22 14:54:19,365 INFO Insert a Document operation by taking input from user 
+2022-02-22 14:54:26,734 INFO Enterd insertdocinto collection with input as {'Chiral indice n': '1', 'Chiral indice m': '2', 'Initial atomic coordinate u': '3', 'Initial atomic coordinate v': '4', 'Initial atomic coordinate w': '5', "Calculated atomic coordinates u'": '6', "Calculated atomic coordinates v'": '7', "Calculated atomic coordinates w'": '8'}
+2022-02-22 14:54:26,813 INFO document  has been recived from user 
+2022-02-22 14:54:27,612 INFO document  has been inserted successfully into collection
+2022-02-22 14:54:38,379 INFO Entering the updatedocument operation as per user request operation
+2022-02-22 14:55:29,324 INFO Entered update document method with key Initial atomic coordinate w ,old value36.458,newvalue 1036.45
+2022-02-22 14:55:29,449 INFO Collection has been fetched
+2022-02-22 14:55:30,219 INFO Document has been updated successfully
+2022-02-22 14:55:35,793 INFO Entering the delete  a document as per user request operation
+2022-02-22 14:56:04,408 INFO Entered delete document method with parameter as {'Initial atomic coordinate w': '156'}
+2022-02-22 14:56:05,318 INFO No of documents deleted are 1
+2022-02-22 14:58:28,247 INFO Entereed Load Data Operation 
+2022-02-22 14:58:28,247 INFO Starting to load the data by fetching the database connection 
+2022-02-22 14:58:28,247 INFO Started to establish  the database connection 
+2022-02-22 14:58:28,372 INFO successfully established the connection with database 
+2022-02-22 14:58:28,434 INFO We found the database and starting to load the data
+2022-02-22 14:58:30,333 INFO successfully loaded the data into the database 
+2022-02-22 14:58:51,192 INFO Entereed retrieval doc Operation 
+2022-02-22 14:58:52,470 INFO Entered retrieve all documents method with parameter of no of documents to be fetched as 16
+2022-02-22 14:58:53,362 INFO All  the 16  documents on the database are fetched successfully 
+2022-02-22 14:58:53,362 INFO {'_id': ObjectId('6214ab21257c34426c8211bd'), 'Chiral indice n': '12', 'Chiral indice m': '14', 'Initial atomic coordinate u': '16', 'Initial atomic coordinate v': '25', 'Initial atomic coordinate w': '1036.45', "Calculated atomic coordinates u'": '12.458', "Calculated atomic coordinates v'": '32.659', "Calculated atomic coordinates w'": '78.9654'}
+2022-02-22 14:58:53,362 INFO {'_id': ObjectId('6214abca257c34426c8211c4'), 'Chiral indice n': '1', 'Chiral indice m': '2', 'Initial atomic coordinate u': '3', 'Initial atomic coordinate v': '4', 'Initial atomic coordinate w': '5', "Calculated atomic coordinates u'": '6', "Calculated atomic coordinates v'": '7', "Calculated atomic coordinates w'": '8'}
+2022-02-22 14:58:53,362 INFO {'_id': ObjectId('6214acbcd9d8de2fcbd48731'), 'Chiral indice n': '2', 'Chiral indice m': '1', 'Initial atomic coordinate u': '0,679005', 'Initial atomic coordinate v': '0,701318', 'Initial atomic coordinate w': '0,017033', "Calculated atomic coordinates u'": '0,721039', "Calculated atomic coordinates v'": '0,730232', "Calculated atomic coordinates w'": '0,017014'}
+2022-02-22 14:58:53,362 INFO {'_id': ObjectId('6214acbcd9d8de2fcbd48732'), 'Chiral indice n': '2', 'Chiral indice m': '1', 'Initial atomic coordinate u': '0,717298', 'Initial atomic coordinate v': '0,642129', 'Initial atomic coordinate w': '0,231319', "Calculated atomic coordinates u'": '0,738414', "Calculated atomic coordinates v'": '0,65675', "Calculated atomic coordinates w'": '0,232369'}
+2022-02-22 14:58:53,362 INFO {'_id': ObjectId('6214acbcd9d8de2fcbd48733'), 'Chiral indice n': '2', 'Chiral indice m': '1', 'Initial atomic coordinate u': '0,489336', 'Initial atomic coordinate v': '0,303751', 'Initial atomic coordinate w': '0,088462', "Calculated atomic coordinates u'": '0,477676', "Calculated atomic coordinates v'": '0,263221', "Calculated atomic coordinates w'": '0,088712'}
+2022-02-22 14:58:53,362 INFO {'_id': ObjectId('6214acbcd9d8de2fcbd48734'), 'Chiral indice n': '2', 'Chiral indice m': '1', 'Initial atomic coordinate u': '0,413957', 'Initial atomic coordinate v': '0,632996', 'Initial atomic coordinate w': '0,040843', "Calculated atomic coordinates u'": '0,408823', "Calculated atomic coordinates v'": '0,657897', "Calculated atomic coordinates w'": '0,039796'}
+2022-02-22 14:58:53,362 INFO {'_id': ObjectId('6214acbcd9d8de2fcbd48735'), 'Chiral indice n': '2', 'Chiral indice m': '1', 'Initial atomic coordinate u': '0,334292', 'Initial atomic coordinate v': '0,543401', 'Initial atomic coordinate w': '0,15989', "Calculated atomic coordinates u'": '0,303349', "Calculated atomic coordinates v'": '0,558807', "Calculated atomic coordinates w'": '0,157373'}
+2022-02-22 14:58:53,362 INFO {'_id': ObjectId('6214acbcd9d8de2fcbd48736'), 'Chiral indice n': '2', 'Chiral indice m': '1', 'Initial atomic coordinate u': '0,510664', 'Initial atomic coordinate v': '0,696249', 'Initial atomic coordinate w': '0,255128', "Calculated atomic coordinates u'": '0,496977', "Calculated atomic coordinates v'": '0,725608', "Calculated atomic coordinates w'": '0,25597'}
+2022-02-22 14:58:53,362 INFO {'_id': ObjectId('6214acbcd9d8de2fcbd48737'), 'Chiral indice n': '2', 'Chiral indice m': '1', 'Initial atomic coordinate u': '0,413957', 'Initial atomic coordinate v': '0,632996', 'Initial atomic coordinate w': '0,374176', "Calculated atomic coordinates u'": '0,390878', "Calculated atomic coordinates v'": '0,657645', "Calculated atomic coordinates w'": '0,374735'}
+2022-02-22 14:58:53,362 INFO {'_id': ObjectId('6214acbcd9d8de2fcbd48738'), 'Chiral indice n': '2', 'Chiral indice m': '1', 'Initial atomic coordinate u': '0,712552', 'Initial atomic coordinate v': '0,55479', 'Initial atomic coordinate w': '0,112271', "Calculated atomic coordinates u'": '0,750056', "Calculated atomic coordinates v'": '0,561494', "Calculated atomic coordinates w'": '0,114944'}
+2022-02-22 14:58:53,362 INFO {'_id': ObjectId('6214acbcd9d8de2fcbd48739'), 'Chiral indice n': '2', 'Chiral indice m': '1', 'Initial atomic coordinate u': '0,320995', 'Initial atomic coordinate v': '0,298682', 'Initial atomic coordinate w': '0,1837', "Calculated atomic coordinates u'": '0,281301', "Calculated atomic coordinates v'": '0,261433', "Calculated atomic coordinates w'": '0,182779'}
+2022-02-22 14:58:53,362 INFO {'_id': ObjectId('6214acbcd9d8de2fcbd4873a'), 'Chiral indice n': '2', 'Chiral indice m': '1', 'Initial atomic coordinate u': '0,394742', 'Initial atomic coordinate v': '0,279367', 'Initial atomic coordinate w': '0,302747', "Calculated atomic coordinates u'": '0,35086', "Calculated atomic coordinates v'": '0,2335', "Calculated atomic coordinates w'": '0,302196'}
+2022-02-22 14:58:53,362 INFO {'_id': ObjectId('6214acbcd9d8de2fcbd4873b'), 'Chiral indice n': '2', 'Chiral indice m': '1', 'Initial atomic coordinate u': '0,282702', 'Initial atomic coordinate v': '0,357871', 'Initial atomic coordinate w': '0,397985', "Calculated atomic coordinates u'": '0,229138', "Calculated atomic coordinates v'": '0,328729', "Calculated atomic coordinates w'": '0,398581'}
+2022-02-22 14:58:53,362 INFO {'_id': ObjectId('6214acbcd9d8de2fcbd4873c'), 'Chiral indice n': '2', 'Chiral indice m': '1', 'Initial atomic coordinate u': '0,320995', 'Initial atomic coordinate v': '0,298682', 'Initial atomic coordinate w': '0,517033', "Calculated atomic coordinates u'": '0,278752', "Calculated atomic coordinates v'": '0,269615', "Calculated atomic coordinates w'": '0,51733'}
+2022-02-22 14:58:53,362 INFO {'_id': ObjectId('6214acbcd9d8de2fcbd4873d'), 'Chiral indice n': '2', 'Chiral indice m': '1', 'Initial atomic coordinate u': '0,605258', 'Initial atomic coordinate v': '0,720633', 'Initial atomic coordinate w': '0,469414', "Calculated atomic coordinates u'": '0,613415', "Calculated atomic coordinates v'": '0,760009', "Calculated atomic coordinates w'": '0,469452'}
+2022-02-22 14:58:53,362 INFO {'_id': ObjectId('6214acbcd9d8de2fcbd4873e'), 'Chiral indice n': '2', 'Chiral indice m': '1', 'Initial atomic coordinate u': '0,510664', 'Initial atomic coordinate v': '0,696249', 'Initial atomic coordinate w': '0,588462', "Calculated atomic coordinates u'": '0,521991', "Calculated atomic coordinates v'": '0,736991', "Calculated atomic coordinates w'": '0,588946'}
+2022-02-22 15:05:29,098 INFO Entering the drop collection operation as per user request 
+2022-02-22 15:05:29,098 INFO Starting to drop the colleciton
+2022-02-22 15:05:30,180 INFO successfully the collection has been deleted 
+2022-02-22 15:06:04,210 INFO Insert a Document operation by taking input from user 
+2022-02-22 15:06:42,724 INFO Enterd insertdocinto collection with input as {'Chiral indice n': '1', 'Chiral indice m': '2', 'Initial atomic coordinate u': '3', 'Initial atomic coordinate v': '4', 'Initial atomic coordinate w': '5', "Calculated atomic coordinates u'": '6', "Calculated atomic coordinates v'": '7', "Calculated atomic coordinates w'": '8'}
+2022-02-22 15:06:42,849 INFO document  has been recived from user 
+2022-02-22 15:06:43,753 INFO document  has been inserted successfully into collection
+2022-02-22 15:06:49,323 INFO Insert a Document operation by taking input from user 
+2022-02-22 15:06:59,235 INFO Enterd insertdocinto collection with input as {'Chiral indice n': '12', 'Chiral indice m': '23', 'Initial atomic coordinate u': '34', 'Initial atomic coordinate v': '45', 'Initial atomic coordinate w': '56', "Calculated atomic coordinates u'": '67', "Calculated atomic coordinates v'": '78', "Calculated atomic coordinates w'": '89'}
+2022-02-22 15:06:59,310 INFO document  has been recived from user 
+2022-02-22 15:06:59,983 INFO document  has been inserted successfully into collection
+2022-02-22 15:07:26,029 INFO Entereed Load Data Operation 
+2022-02-22 15:07:26,029 INFO Starting to load the data by fetching the database connection 
+2022-02-22 15:07:26,029 INFO Started to establish  the database connection 
+2022-02-22 15:07:26,106 INFO successfully established the connection with database 
+2022-02-22 15:07:26,184 INFO We found the database and starting to load the data
+2022-02-22 15:07:28,010 INFO successfully loaded the data into the database 
+2022-02-22 15:37:43,176 INFO Entering the updatedocument operation as per user request operation
+2022-02-22 15:38:11,591 INFO Entering the delete  a document as per user request operation
+2022-02-22 15:38:32,035 INFO Entered delete document method with parameter as {'Initial atomic coordinate u': '0,679005'}
+2022-02-22 15:38:32,881 INFO No of documents deleted are 1
+2022-02-22 15:41:11,257 ERROR Invalid entry by the user ,please enter only postive integers invalid literal for int() with base 10: 'kkj'
